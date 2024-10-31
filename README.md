@@ -3,7 +3,7 @@
 Overview:
 This code snippet implements a brief animated loading effect for a web page themed "Magical Night". The effect involves a 1-second delay before revealing the page's content, enhancing the user's initial experience.
 
-Key Components:
+## Key Components:
 
 HTML Structure:
 A basic HTML skeleton with a .not-loaded class applied to the <body> element, initially hiding the page content.
