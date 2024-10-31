@@ -1,4 +1,4 @@
-#Title: Animated Loading Effect for "Magical Night" Web Page
+# Title: Animated Loading Effect for "Magical Night" Web Page
 
 Overview:
 This code snippet implements a brief animated loading effect for a web page themed "Magical Night". The effect involves a 1-second delay before revealing the page's content, enhancing the user's initial experience.
